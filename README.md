@@ -1,1 +1,1 @@
-# cookbook-mongodb
+cookbook for mongodb
